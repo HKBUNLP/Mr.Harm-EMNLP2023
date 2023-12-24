@@ -1,5 +1,5 @@
 # Mr.Harm
-Official PyTorch implementation for EMNLP23 (Findings) paper: **Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models**.
+Official PyTorch implementation for our EMNLP23 paper: **Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models**.
 
 [[`paper`](https://aclanthology.org/2023.findings-emnlp.611/)]
 
