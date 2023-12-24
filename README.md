@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Data
 
-Please refer to [Data]().
+Please refer to [Data](https://github.com/HKBUNLP/Mr.Harm-EMNLP2023/tree/main/Data).
 
 ## Training
 - Learn from LLMs
