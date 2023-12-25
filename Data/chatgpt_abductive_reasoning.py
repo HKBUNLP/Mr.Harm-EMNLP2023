@@ -16,7 +16,7 @@ for data_item in data_list:
     data[id] = data_item
     id += 1
 
-with open('./FHM/clean_captions.pkl','rb') as f:
+with open('./FHM/captions.pkl','rb') as f:
     caption_dict = pickle.load(f)
     f.close()
 
