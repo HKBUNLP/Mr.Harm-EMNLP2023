@@ -1,9 +1,7 @@
 # Mr.Harm
 Official PyTorch implementation for the paper: **Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models**.
 
-**EMNLP2023**: The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2023, Singapore.
-
-[[`paper`](https://aclanthology.org/2023.findings-emnlp.611/)]
+(**EMNLP 2023**: *The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2023, Singapore*.) [[`paper`](https://aclanthology.org/2023.findings-emnlp.611/)]
 
 
 ## Install
